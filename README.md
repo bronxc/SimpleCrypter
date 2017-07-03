@@ -1,4 +1,4 @@
-##### SimpleCrypter
+### SimpleCrypter
 SimpleCrypter is a really basic encryption tool to protect .Net programs, This
 is more like a Proof of concept than a real tool since the protection key is
 stored in plain text into the stub/launcher program. (in fact it uses a really
